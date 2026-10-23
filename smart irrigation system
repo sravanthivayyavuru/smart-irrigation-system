@@ -1,0 +1,24 @@
+Introduction
+The Smart Irrigation System is an automated system designed to supply water to plants and crops based on their water requirements. It uses a soil moisture sensor to measure the moisture content in the soil. A microcontroller processes the sensor data and automatically controls the water pump. This system reduces water wastage, saves time, and improves agricultural productivity.
+2. Objective
+The main objective of the Smart Irrigation System is to provide water to plants efficiently and automatically according to soil moisture levels. It aims to reduce manual work, conserve water, minimize unnecessary irrigation, and promote healthy plant growth.
+3. Components Required
+Arduino Uno or Microcontroller
+Soil Moisture Sensor
+Water Pump
+Relay Module
+Power Supply
+Connecting Wires
+Water Pipe
+Water Container
+Breadboard
+Plants or Soil for Testing
+4. Working
+The Smart Irrigation System works by continuously monitoring the moisture level of the soil using a soil moisture sensor. The sensor sends the moisture data to the microcontroller, which compares the readings with a predefined moisture threshold.
+When the soil becomes dry, the microcontroller activates the relay module, which switches on the water pump. Water is then supplied to the plants through the pipe. When the soil reaches the required moisture level, the microcontroller switches off the pump automatically.
+Thus, the system provides water according to the soil's requirements, reduces water wastage, and minimizes the need for manual irrigation.
+5. Applications
+Agricultural fields.
+Gardens and lawns.
+5. simulation link
+https://wokwi.com/projects/381493187345804289
